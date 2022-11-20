@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33027.239
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertitore da Binario a Decimale", "Convertitore da Binario a Decimale\Convertitore da Binario a Decimale.csproj", "{B0F52212-7B14-4F4D-9B96-89E7198C400E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertitore da Decimale a Binario", "Convertitore da Decimale a Binario\Convertitore da Decimale a Binario.csproj", "{B4DDF481-8B27-414A-A4A1-470D87951DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertitore da Ottale a Decimale", "Convertitore da Ottale a Decimale\Convertitore da Ottale a Decimale.csproj", "{E6ABD087-5CC8-49CD-87F1-4CD98A337CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertitore da Decimale a Ottale", "Convertitore da Decimale a Ottale\Convertitore da Decimale a Ottale.csproj", "{ABEF3AE4-4AF4-4F12-84E3-83131617A298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertitore da Esadecimale a Decimale", "Convertitore da Esadecimale a Decimale\Convertitore da Esadecimale a Decimale.csproj", "{A1E2183C-EDA7-4F4E-91E8-B219316C171E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertitore da Decimale a Esadecimale", "Convertitore da Decimale a Esadecimale\Convertitore da Decimale a Esadecimale.csproj", "{73EFC88C-B5C9-46A4-B245-4A73BA23300B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F52212-7B14-4F4D-9B96-89E7198C400E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F52212-7B14-4F4D-9B96-89E7198C400E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F52212-7B14-4F4D-9B96-89E7198C400E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F52212-7B14-4F4D-9B96-89E7198C400E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DDF481-8B27-414A-A4A1-470D87951DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DDF481-8B27-414A-A4A1-470D87951DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DDF481-8B27-414A-A4A1-470D87951DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DDF481-8B27-414A-A4A1-470D87951DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6ABD087-5CC8-49CD-87F1-4CD98A337CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ABD087-5CC8-49CD-87F1-4CD98A337CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ABD087-5CC8-49CD-87F1-4CD98A337CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ABD087-5CC8-49CD-87F1-4CD98A337CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEF3AE4-4AF4-4F12-84E3-83131617A298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEF3AE4-4AF4-4F12-84E3-83131617A298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEF3AE4-4AF4-4F12-84E3-83131617A298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEF3AE4-4AF4-4F12-84E3-83131617A298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E2183C-EDA7-4F4E-91E8-B219316C171E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E2183C-EDA7-4F4E-91E8-B219316C171E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E2183C-EDA7-4F4E-91E8-B219316C171E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E2183C-EDA7-4F4E-91E8-B219316C171E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EFC88C-B5C9-46A4-B245-4A73BA23300B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EFC88C-B5C9-46A4-B245-4A73BA23300B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EFC88C-B5C9-46A4-B245-4A73BA23300B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EFC88C-B5C9-46A4-B245-4A73BA23300B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8202DFA9-ADC1-49CD-A7A2-63D9FDA5BB73}
+	EndGlobalSection
+EndGlobal
